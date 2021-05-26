@@ -1,0 +1,8 @@
+{
+  "secret": {
+    "token": "AAAAAAAAAAAAAAAAAAAAAJ8hHAEAAAAADwgjxjl1N6WWg06PASxCDga8J9I%3D67ZMQzqxwOOVaK9dWyVyLyebF9xmWONF2Mx35gJL5yCc9mFsfZ"
+  },
+  "stripe": {
+    "testkey": "sample"
+  }
+}
